@@ -1,0 +1,12 @@
+1.	Briefly explain why you think this assignment has asked you to code a struct, Contact, that holds three other structs as data members. 
+I think the reason that this assignment has asked us to code a struct, Contact, is because that is more organized.
+We can collect three structs as a group (as one struct) and simply use this struct for each function not use separate struct for each function.
+
+2.	What was the most difficult part of this assignment? 
+I think to understand how to combine function and pointer is the most difficult thing.
+Another thing is how to just pick the first character ‘y’ or ‘n’ when user enter ‘yes’ or ‘no’ in yes or no question 
+because I still have not succeeded.
+
+3.	How long did it take you to complete Milestone 4? 
+Total around 6-7 hours.
+ 

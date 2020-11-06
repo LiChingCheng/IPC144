@@ -1,0 +1,4 @@
+﻿  cashRegister.c
+e:\win\seneca\ipc144\ws02\at_home\cashregister.c(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\win\seneca\ipc144\ws02\at_home\cashregister.c(26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  at_home.vcxproj -> E:\WIN\Seneca\IPC144\WS02\at_home\Debug\at_home.exe

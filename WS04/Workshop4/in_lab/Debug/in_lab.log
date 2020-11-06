@@ -1,0 +1,6 @@
+﻿  temps2.c
+e:\win\seneca\ipc144\ws04\in_lab\temps2.c(43): warning C4133: 'function': incompatible types - from 'char [14]' to 'FILE *const '
+e:\win\seneca\ipc144\ws04\in_lab\temps2.c(43): error C2198: 'fprintf': too few arguments for call
+e:\win\seneca\ipc144\ws04\in_lab\temps2.c(46): warning C4133: 'function': incompatible types - from 'char [16]' to 'FILE *const '
+e:\win\seneca\ipc144\ws04\in_lab\temps2.c(46): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'int'
+e:\win\seneca\ipc144\ws04\in_lab\temps2.c(46): warning C4024: 'fprintf': different types for formal and actual parameter 2

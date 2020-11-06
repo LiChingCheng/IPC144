@@ -1,0 +1,15 @@
+3. Briefly explain how the two functions findContactIndex and getTenDigitPhone benefit your source 
+   code with respect to overall maintenance and readability.
+ 
+ - findContactIndex and getTenDigitPhone functions help us to find the index of the cellphone number 
+   that we entered and ensure we get the ten digits phone number. Both of them can be reused in other
+   functions. When we want to fine the index or get ten digits phone number we just need to call 
+   these two functions, it is very convenient for us and it also simplifies our code.
+
+4. What did you learn most from doing Assignment 2? 
+
+ - In the beginning, we didn’t create any function in contactHelper.h. For example, yes function. 
+   So when we ask user to answer yes or no question, we have to repeat the code which is written in 
+   the yes function again and again. After we create those functions, we can reuse functions and our 
+   code become more easily to read. In addition, if one of functions is wrong, we can only change 
+   that function not to change all the same codes in each place. 

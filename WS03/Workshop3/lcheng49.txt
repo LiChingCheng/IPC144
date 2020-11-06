@@ -1,0 +1,13 @@
+Student: Li-Ching Cheng
+ID: 143292175
+
+Correct Output:
+
+000-292-000
+v1 = 120
+v2 = 60
+v3 = 1
+
+My car is red. It has only 2 seats! Time to go - see ya!
+DDDDDDDDD
+000-212-000

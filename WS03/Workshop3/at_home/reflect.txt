@@ -1,0 +1,20 @@
+
+Name: Li-Ching, Cheng
+Student Number: 143292175
+Email: lcheng49@myseneca.ca
+Section: SGG
+Date: 2018.05.29
+
+1)Name all the iteration constructs.
+  --While, do while, for.
+
+2)In two or three sentences explain the difference between a “do while” and a “while” loop?
+  --When we use do while , the code will execute the sequence at least one time no matter the 
+condition is true or not. If the condition is true then it will do next condition, or if it is 
+not true then it will stop. However, when we use while if the condition is true the sequence 
+will execute but if the condition is not true the sequence won’t execute.
+
+3)In two or three sentences explain what is meant by the term conditional expression?
+  --Conditional expression ( condition ? operand : operand )is the same thing as if/else. 
+When the condition is true it will execute the left operand. On the other hand, when the 
+condition is not true, it will execute the right operand.

@@ -1,0 +1,10 @@
+Name:       Li-Ching,Cheng   
+ID:         143292175
+Email:      lcheng49@myseneca.ca
+Section:    SGG
+Date:       May. 15,2018
+Purpose:    What we have learned in this workshop
+
+After this workshop,I knew what the function that each program can do and what the 
+connection between them.In this workshop,we create a project and put this file into 
+Win SCP.Then,we can see our project on the Linux.

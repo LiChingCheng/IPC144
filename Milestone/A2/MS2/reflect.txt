@@ -1,0 +1,14 @@
+1.In 3 or 4 sentences explain the term “function” and briefly discuss the need for functions in any language?
+Function is like a black box. It has some functions depends on what we put in it.
+Different function need differ input and give differ output. 
+We insert the input that the function wants and after this input working in the function, 
+the function will give it result depends on what it returns or not. 
+
+2.Briefly explain why you think the "helper" functions are in a different module and why those 
+functions were not included in the "contacts" module?
+When we create header files we hope themselves is cohesive but each header files should be low coupling 
+that is the reason that we separate these two header files.
+Contact file represents one function. It is for declare each struct type and then create related function prototype. 
+If we didn’t declare in the beginning, we can’t create function prototype.
+On the other hand, helper file is not related to contact file and each function are low coupling, 
+so we put those separate functions together.

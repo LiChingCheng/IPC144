@@ -1,0 +1,20 @@
+Name: Li-Ching, Cheng
+Student Number: 143292175
+Email: lcheng49@myseneca.ca
+Section: SGG
+Workshop: 4
+
+1) In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements? 
+   We can enter the numbers of days from 3 to 10. In order to hold 10 elements, we need to declare the arrays to be 10.
+
+2) In two or three sentences explain the advantages and disadvantages of using matching arrays? 
+   It's convenient to keep several related data elements by using only one array to store all of them.
+However, all of them need to be same types and we need to know how many elements that we are going to store.
+If we set too many spaces but we didn’t use it, then it will waste of spaces. On the other hand, 
+if we didn’t set enough spaces for it, then we won’t have enough spaces to keep all of the elements.
+
+3) Was the at home portion of this workshop too easy, just right or too hard? Why? 
+   I think on the bottom of the at home workshop is between just right and too hard.
+Because the part of enter the day to see average temperature need to combine several logic.
+We must know each logic well and know which instruction should be loop or not. 
+Otherwise, we will be very confused. 
